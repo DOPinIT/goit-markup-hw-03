@@ -362,6 +362,7 @@ width: 1600px;
         background: #2F303A;
         width: 1600px;
         height: 252px;
+        margin: 0 auto;
 }
 .footer-container {    
         display: flex;   
