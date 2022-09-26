@@ -199,7 +199,7 @@ font-weight: 900;
         overflow: hidden;
         border: 0;
         padding: 0;
-        clip: rect(0 0 0 0);
+        clip: rect(0, 0, 0, 0);
         clip-path: inset(50%);
         margin: -1px;
 }
@@ -241,7 +241,7 @@ gap: 30px;
 }
 
 .gallery-item {
-        width:calc((100%-60)/3);
+        width: calc((100%-60)/3);
         gap: 30px;
 }
 
