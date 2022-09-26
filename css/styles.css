@@ -441,11 +441,16 @@ gap: 30px;
                 letter-spacing: 0.06em;
         
                 color: var(--header-color);
-                margin-top: 20px;
+                
 }
 
 .work-type {
                 font-size: 16px;
                 line-height: 1.88;
                 color: var(--text-color)
+}
+
+.title-type {
+        margin: 20px 24px;
+        gap: 4px;
 }
